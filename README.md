@@ -8,7 +8,7 @@ A beginner-level Udemy Clone website built using HTML and CSS.
 
 ## GitHub Repository
 
-[Paste your GitHub repository link here]
+[https://github.com/vishale2207-creator/clone-1/blob/main/README.md]
 
 ## Features
 
